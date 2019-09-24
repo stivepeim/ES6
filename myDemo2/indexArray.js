@@ -6,6 +6,7 @@ let _json = {
   length:3
 }
 let arr = Array.from(_json);
+
 console.log(arr);
 
 
